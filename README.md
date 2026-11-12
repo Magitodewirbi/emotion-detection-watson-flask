@@ -102,7 +102,6 @@ Para evaluación por IA, entrega los enlaces públicos de GitHub a README.md (ta
 
 Para evaluación por compañeros, toma las 16 capturas de código, estructura, terminal e interfaz con los nombres exactos de lab-instructions.md.
 
-## Estado
 
-Este ZIP incluye código final, versiones intermedias, interfaz original y fragmentos listos para copiar. El fork, la subida a GitHub, las predicciones reales y las capturas de Theia quedan pendientes de ejecutar en tu laboratorio. Las verificaciones locales usan respuestas simuladas y validan la lógica, no las predicciones de Watson.
+
 
